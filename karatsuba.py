@@ -1,3 +1,6 @@
+#This scipt implements the Karatsuba algorithm for multiplication of two integers.
+#The user inputs two integers, which may be negative, and returns their product
+
 #addZeros takes in a string representing a positive integer, how many zeros to add, and whether or not
 #to add zeros on the left or right. It then adds zeros to the left or right of the string
 def addZeros(numString, zeros, left=True):
